@@ -1,0 +1,23 @@
+{
+  "name": "zip2latlon",
+  "version": "1.0.0",
+  "description": "convert U.S. zip code to lat lon coordinates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zip",
+    "code",
+    "latitude",
+    "longitude",
+    "lat",
+    "lon"
+  ],
+  "author": "Brian Burns",
+  "license": "ISC",
+  "dependencies": {
+    "json-query": "^2.2.2",
+    "lookup-csv": "^1.1.0"
+  }
+}
